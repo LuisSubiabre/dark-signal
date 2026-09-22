@@ -14,3 +14,9 @@ npm run dev
 npm run build
 npm run preview
 ```
+
+## GitHub Pages
+
+El sitio se publica automáticamente al hacer push a `main`:
+
+https://luissubiabre.github.io/dark-signal/
